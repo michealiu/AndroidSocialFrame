@@ -1,0 +1,2 @@
+# AndroidSocialFrame
+这是一个一般化的社交类app的框架，内置了许多库，适合那些刚接触android的新手快速建立一个项目
